@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__idea__list_directory_tree",
+      "mcp__idea__build_project",
+      "mcp__idea__read_file",
+      "mcp__idea__execute_terminal_command",
+      "Bash(curl --version)",
+      "Bash(wget --version)",
+      "mcp__idea__get_project_modules",
+      "mcp__idea__get_project_dependencies",
+      "Bash(__NEW_LINE_422b8ee6446aaf52__ curl:*)",
+      "Bash(__NEW_LINE_422b8ee6446aaf52__ chmod:*)"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "idea"
+  ]
+}
